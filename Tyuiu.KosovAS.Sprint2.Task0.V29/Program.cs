@@ -23,7 +23,7 @@ namespace Tyuiu.KosovAS.Sprint2.Task0.V29
             Console.WriteLine("* Спринт #2" + String.Concat(Enumerable.Repeat(" ", 63)) + "*");
             Console.WriteLine("* Тема: Операции сравнения                                                *");
             Console.WriteLine("* Задание #0" + String.Concat(Enumerable.Repeat(" ", 62)) + "*");
-            Console.WriteLine("* Вариант 19" + String.Concat(Enumerable.Repeat(" ", 62)) + "*");
+            Console.WriteLine("* Вариант 29" + String.Concat(Enumerable.Repeat(" ", 62)) + "*");
             Console.WriteLine("* Выполнил: Косов Андрей Сергеевич | АСОиУБ-23-3" + String.Concat(Enumerable.Repeat(" ", 26)) + "*");
             Console.WriteLine(String.Concat(Enumerable.Repeat("*", 75)));
             Console.WriteLine("* УСЛОВИЕ:" + String.Concat(Enumerable.Repeat(" ", 64)) + "*");
